@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="name">
+        <item>Bahari</item>
+        <item>Alam</item>
+        <item>Budaya</item>
+        <item>Sejarah</item>
+        <item>Cagar Alam</item>
+        <item>Belanja</item>
+    </string-array>
+    <string-array name="img">
+        <item>https://akcdn.detik.net.id/visual/2020/09/29/pantai-kelingking_169.jpeg</item>
+        <item>https://asset.kompas.com/crops/px7haxGpXeOrx21Q5xvEUllMXdM=/0x22:561x396/750x500/data/photo/2020/10/08/5f7f17b62853b.jpeg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/08/14/prambanan.jpg</item>
+        <item>https://www.cendananews.com/wp-content/uploads/2019/08/a-13.jpg</item>
+        <item>https://3.bp.blogspot.com/-rU6HuZcG4sk/WF_mxsgOhxI/AAAAAAAAGhY/Nxx8RwEZn1UR4Q45Op3SGMzBr_dGB1yWgCEw/s1600/1202.jpg</item>
+        <item>https://asset.kompas.com/crops/gb240278utdBg5DiVKlQkjXPKVc=/0x0:1599x1066/750x500/data/photo/2022/01/06/61d671ed5ab4b.jpeg</item>
+    </string-array>
+    <string-array name="lokasi">
+        <item>Semarang</item>
+        <item>Wonogiri</item>
+        <item>Jepara</item>
+        <item>Kebumen</item>
+        <item>Rembang</item>
+        <item>Wonosobo</item>
+        <item>Banyumas</item>
+        <item>Salatiga</item>
+        <item>Magelang</item>
+        <item>Tawangmangu</item>
+        <item>Tegal</item>
+        <item>Klaten</item>
+        <item>Kudus</item>
+        <item>Purwokerto</item>
+        <item>Sragen</item>
+        <item>Solo</item>
+        <item>Ambarawa</item>
+        <item>Pemalang</item>
+        <item>Brebes</item>
+        <item>Cilacap</item>
+        <item>Yogyakarta</item>
+        <item>Pekalongan</item>
+    </string-array>
+    <string-array name="imgLokasi">
+        <item>https://www.goodnewsfromindonesia.id/uploads/post/large-tugu-muda-lawang-sewu-kota-semarang-2019-sam9042-2aee8bdfe52106aa5ca1b46aafe2c3db.jpg</item>
+        <item>https://i0.wp.com/energinasional.com/wp-content/uploads/2014/12/Gapura-Selamat-Datang-Wonogiri-SMP-1-Wonogiri1.jpg</item>
+        <item>https://kuasakata.com/images/2020/04/10/jepara.jpg</item>
+        <item>https://www.kangamir.com/wp-content/uploads/2019/06/Tugu-lawet-Kebumen-1024x675.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2021/10/26/alun_alun_rembang.jpg</item>
+        <item>https://asset.kompas.com/crops/KY0EiJGiNAB3G7m5rGPSszitBoA=/0x0:1275x850/750x500/data/photo/2021/07/24/60fb237495256.jpg</item>
+        <item>https://jatengprov.go.id/wp-content/uploads/2017/12/PesawatBanyumasjadi1.jpg</item>
+        <item>https://cdns.klimg.com/merdeka.com/i/w/news/2020/09/15/1220296/content_images/670x335/20200915140344-1-tugu-kota-salatiga-001-shani-rasyid.jpg</item>
+        <item>https://visitmagelang.id/wp-content/uploads/2017/04/magelangkota.jpg</item>
+        <item>https://www.javatravel.net/wp-content/uploads/2020/10/Tempat-Wisata-Tawangmangu-Karanganyar.jpg</item>
+        <item>https://awsimages.detik.net.id/community/media/visual/2020/05/23/14f5f1f3-b254-4d04-aaf1-82b2e350e837_169.png</item>
+        <item>https://klatenkab.go.id/wp-content/uploads/2021/12/IMG-20211221-WA0004-1000x800.jpg</item>
+        <item>https://asset.kompas.com/crops/EA03-zAxa8A_cmPsQhxfIRdBQXU=/0x0:780x520/750x500/data/photo/2019/05/08/2887476113.jpg</item>
+        <item>https://ik.imagekit.io/tvlk/image/imageResource/2019/07/07/1562526066414-a47d065676ff4881ce274c8109bd27f7.jpeg</item>
+        <item>https://images.solopos.com/2020/08/14Kabupaten-Sragen-sragenkab.go_.id_.jpg</item>
+        <item>https://img.inews.co.id/files/inews_new/2021/04/29/keseruan_mengunjungi_destinasi_wisata_di_solo.jpg</item>
+        <item>https://www.pinhome.id/info-area/wp-content/uploads/2022/03/wisata-ambarawa-terbaru.jpg</item>
+        <item>https://cdn-2.tstatic.net/jateng/foto/bank/images/gapura-masuk-pemalang.jpg</item>
+        <item>https://poto.radartegal.com/m/2103/jixu.2ie.jpeg</item>
+        <item>https://cdn0-production-images-kly.akamaized.net/d_Rzqn3uSj0vcFjFf-P3bfHVc84=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2941328/original/052310600_1571249944-GERBANG_CILACAP-Ridlo.jpg</item>
+        <item>https://cdn.britannica.com/66/145866-050-921B75D7/Temple-Prambanan-Yogyakarta-Indon-Java.jpg</item>
+        <item>https://content.neutron.co.id/assets/main/regions/_768x512_crop_center-center_82_line/daerah-pekalongan.jpg</item>
+    </string-array>
+
+    <string-array name="wisata">
+        <item>Pantai Nampu</item>
+        <item>Pantai Pulau Panjang</item>
+        <item>Pantai Bandengan</item>
+        <item>Pantai Karang Bolong</item>
+        <item>Pantai Bopong</item>
+        <item>Pantai Pecaron</item>
+        <item>Pantai Menganti</item>
+        <item>Pantai Karang Jahe</item>
+        <item>Dataran Tinggi Dieng</item>
+        <item>Kawasan Wisata Baturraden</item>
+        <item>Taman Nasional Gunung Merbabu</item>
+        <item>Punthuk Setumbu</item>
+        <item>Rafting Sungai Progo</item>
+        <item>Ketep Pass</item>
+        <item>Grojogan Sewu</item>
+        <item>Taman Wisata Air Panas Guci</item>
+        <item>Umbul Ponggok</item>
+        <item>River Boarding Kali Pusur</item>
+        <item>Goa Petruk</item>
+        <item>Umbul Sidomukti</item>
+        <item>Hutan Pinus Kayon</item>
+        <item>Kawasan Wisata Colo</item>
+        <item>Grojogan Sewu</item>
+        <item>Telaga Sunyi</item>
+        <item>Desa Wisata Budaya Tanon</item>
+        <item>Desa Wisata Budaya Kandri</item>
+        <item>Desa Wisata Budaya Lerep</item>
+        <item>Puri Maerokoco</item>
+        <item>Candi Mendut</item>
+        <item>Candi Borobudur</item>
+        <item>Masjid Agung Jawa Tengah</item>
+        <item>Lawang Sewu</item>
+        <item>Kota Lama Semarang</item>
+        <item>Candi Prambanan</item>
+        <item>Keraton Kasunanan Surakarta Hadiningrat Solo</item>
+        <item>Masjid Menara Kudus</item>
+        <item>Museum Purbakala Sangiran</item>
+        <item>Kampoeng Batik Laweyan</item>
+        <item>Museum Kereta Api</item>
+        <item>Taman Nasional Karimunjawa</item>
+        <item>Cagar Alam Moga</item>
+        <item>Cagar Alam Curug Bengkawah</item>
+        <item>Taman Wisata Alam Guci</item>
+        <item>Cagar Alam Telogo Ranjeng</item>
+        <item>Taman Wisata Alam Gunung Selok</item>
+        <item>Taman Wisata Alam Telogo Warno dan Pengilon</item>
+        <item>Pasar Semawis</item>
+        <item>Paragon Mall</item>
+        <item>Pasar Seni Kota Lama</item>
+        <item>Pasar Johar</item>
+        <item>Pasar Triwindu</item>
+        <item>Solo Paragon Mall</item>
+        <item>Pasar Klewer</item>
+        <item>Pusat Grosir Solo (PGS)</item>
+        <item>Pasar Gede</item>
+        <item>Ria Batik</item>
+        <item>Hartono Mall</item>
+        <item>Pasar Bringharjo</item>
+        <item>Rita Super Mall</item>
+        <item>Pusat Grosir Batik Setono</item>
+        <item>Oemah Batik Lasem</item>
+    </string-array>
+
+    <string-array name="imgWisata">
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+        <item>https://img.inews.co.id/media/822/files/inews_new/2020/05/13/IMG_13052020_112236__822_x_430_piksel_.jpg</item>
+    </string-array>
+</resources>
